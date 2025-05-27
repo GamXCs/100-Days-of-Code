@@ -1,7 +1,11 @@
+# Ignore PyCharm settings
 .idea/
+.idea-backup/
+*.iml
+*.xml
+
+# Ignore Python environment and cache
 .venv/
 __pycache__/
 *.pyc
-*.yaml
-lesson-remote-info.yaml
-lesson-info.yaml
+
